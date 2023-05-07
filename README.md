@@ -11,3 +11,5 @@ C. Constructor adalah metode khusus yang digunakan untuk menginisialisasi objek 
 D. Method Overloading adalah konsep dimana sebuah class memiliki beberapa method dengan nama yang sama dengan parameter yang berbeda. Dalam method overloading, metode-metode tersebut memiliki nama yang sama tetapi memiliki perilaku yang berbeda tergantung pada argumen yang diterima. Saat metode dipanggil, pemilihan metode yang tepat dilakukan berdasarkan jumlah dan tipe argumen yang diberikan.
 
 E. Method Setter and Getter adalah metode yang digunakan untuk mengatur (setter) dan mengambil (getter) nilai atribut objek. Setter digunakan untuk mengubah nilai atribut, sedangkan getter digunakan untuk mengambil nilai atribut. Dengan menggunakan setter dan getter, akses langsung ke atribut dapat dikontrol, dan ini membantu dalam implementasi prinsip encapsulation yang mendasari pemrograman berorientasi objek.
+
+
