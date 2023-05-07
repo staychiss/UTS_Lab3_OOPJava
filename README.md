@@ -12,4 +12,20 @@ D. Method Overloading adalah konsep dimana sebuah class memiliki beberapa method
 
 E. Method Setter and Getter adalah metode yang digunakan untuk mengatur (setter) dan mengambil (getter) nilai atribut objek. Setter digunakan untuk mengubah nilai atribut, sedangkan getter digunakan untuk mengambil nilai atribut. Dengan menggunakan setter dan getter, akses langsung ke atribut dapat dikontrol, dan ini membantu dalam implementasi prinsip encapsulation yang mendasari pemrograman berorientasi objek.
 
+![UTS(1)](https://user-images.githubusercontent.com/116258996/236678067-208f863b-dd8c-4aac-aa9e-bba83defe95c.png)
+
+No 2 UTS PBO
+Reverse Kalimat
+![UTS(2) ReverseKalimat](https://user-images.githubusercontent.com/116258996/236678066-aeacca54-0e87-4868-80cc-7dbbf8924b4d.png)
+Reverse Huruf
+![UTS(2) ReverserHuruf](https://user-images.githubusercontent.com/116258996/236678065-06ac4df2-1f13-42f2-a61f-4fcf3018b77b.png)
+
+No 3 UTS PBO
+![UTS(3)](https://user-images.githubusercontent.com/116258996/236678064-3a8a1db9-0962-46e1-9df7-f490a3b3dfc5.png)
+
+No 4 UTS PBO
+![UTS(4) Matematika](https://user-images.githubusercontent.com/116258996/236678060-b6cd784d-5699-4393-912d-a91c681bbc68.png)
+![UTS(4) Fisika](https://user-images.githubusercontent.com/116258996/236678062-85f26835-55a0-4b56-836f-4f428b25b040.png)
+
+
 
